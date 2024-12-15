@@ -3,7 +3,7 @@
 
 This project was a collaborative effort by:
 
-Àlex Muñoz (U199014), David Almirall (U1, Gorka Bravo (U197568)
+Àlex Muñoz (U199014), David Almirall (U197560), Gorka Bravo (U197568)
 
 ## Overview
 
