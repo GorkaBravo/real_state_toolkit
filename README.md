@@ -75,7 +75,7 @@ real_estate_toolkit/
 
 ## Installation and Usage
 
-###Prerequisites
+### Prerequisites
 
 -Ensure you have Python 3.8 or higher installed. Use poetry for dependency management.
 
